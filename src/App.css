@@ -54,3 +54,7 @@ h1{
 ol{
   list-style: none;
 }
+
+.winner-button{
+  background-color: palegreen;
+}
